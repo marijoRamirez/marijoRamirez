@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Marijo  
+# 👋 ¡Hola! Soy Majo
 
 🎓 Estudiante en la **Universidad Tecnológica de León (UTL)** cursando la ingeniería en **Tecnologías de la Información, área Desarrollo de Software**.  
 
