@@ -47,9 +47,8 @@
 
 ## 📚 Actualmente aprendiendo  
 🔹 Docker  
-🔹 Swagger  
-🔹 Django  
-✨ ¡Y siempre en busca de aprender más!  
+🔹 Jinja  
+🔹 Flask  
 
 ---
 
